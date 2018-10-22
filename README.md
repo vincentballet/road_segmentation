@@ -95,14 +95,3 @@ Note that the project does not contains data, available on [Kaggle](https://www.
 │       └── helpers.py
 └── submissions                         Generated CSV submissions for Kaggle
 </pre>
-
-**Important**: the test data folder configuration has been changed from the original one available on Kaggle (see figure below).
-
-In order to create the right configuration from the old folder. First copy the `test_set_images/` folder to data (along with the training images as well), and run the following:
-
-```
-$ cd ./data/
-$ bash script.sh
-```
-
-<img src="./assets/test-config.png" alt="Test folder configuration" style="width: 500px;"/>
