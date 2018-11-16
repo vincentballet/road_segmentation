@@ -42,8 +42,6 @@ Options:
 * Prediction with pre-trained: < 1 minute
 * Training from scratch with GPU NVIDIA TITAN X: ~ 4 hours
 
-Note that the project does not contains data, available on [Kaggle](https://www.kaggle.com/c/epfml17-segmentation/data). It is necessary to create the same layout than described above.
-
 ## Project structure
 <pre>
 .
